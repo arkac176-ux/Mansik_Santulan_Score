@@ -2,7 +2,7 @@
     "use strict";
 
     // Backend API
-    const API_URL = "http://127.0.0.1:8000/predict";
+   const API_URL = "https://mansik-santulan-score-4-n6qh.onrender.com/predict";
 
     // Form elements
     const form = document.getElementById("predict-form");
